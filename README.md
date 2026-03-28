@@ -2,9 +2,10 @@
 
 A simple REST API built with ASP.NET Core 8.
 
-**Live Demo:** http://34.143.132.27:5000
+**Live Demo:** http://34.143.132.27:5000/api/health
 
 Test the API:
+
 ```bash
 curl http://34.143.132.27:5000/api/health
 ```
