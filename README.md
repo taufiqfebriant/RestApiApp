@@ -5,8 +5,6 @@ A simple REST API built with ASP.NET Core 8.
 ## Prerequisites
 
 - .NET 8 SDK
-- Linux (WSL Ubuntu for Windows, native Linux/OSX for Mac)
-- Terminal
 
 ## How to Run Locally
 
