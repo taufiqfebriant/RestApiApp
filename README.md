@@ -2,6 +2,13 @@
 
 A simple REST API built with ASP.NET Core 8.
 
+**Live Demo:** http://34.143.132.27:5000
+
+Test the API:
+```bash
+curl http://34.143.132.27:5000/api/health
+```
+
 ## Prerequisites
 
 - .NET 8 SDK
@@ -150,6 +157,8 @@ journalctl -u restapi -f
 
 ### Access Application
 
+The application is deployed at: **http://34.143.132.27:5000**
+
 Local access:
 
 ```
@@ -183,7 +192,7 @@ If using Google Cloud:
 ### Test API
 
 ```bash
-curl http://localhost:5000/api/health
+curl http://34.143.132.27:5000/api/health
 ```
 
 ---
